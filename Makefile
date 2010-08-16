@@ -3,9 +3,9 @@ LD=ld
 
 CFLAGS=-g
 
-OUTPUT= yes whoami sleep
+OUTPUT= sleep tty whoami yes
 
-all: yes whoami sleep
+all:  sleep tty whoami yes
 
 %.out: %.c
 	$(CC) $(CFLAGS) -c $(input) -o $(output)

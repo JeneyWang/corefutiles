@@ -1,8 +1,6 @@
 
 TODO
 
-coreutils /usr/bin/
-coreutils /usr/bin/[
 coreutils /usr/bin/base64
 coreutils /usr/bin/basename
 coreutils /usr/bin/chcon
@@ -44,7 +42,6 @@ coreutils /usr/bin/sha256sum
 coreutils /usr/bin/sha384sum
 coreutils /usr/bin/sha512sum
 coreutils /usr/bin/shuf
-coreutils /usr/bin/sleep
 coreutils /usr/bin/sort
 coreutils /usr/bin/split
 coreutils /usr/bin/stat
@@ -68,5 +65,6 @@ coreutils /usr/bin/who
 
 COMPLETE
 
+corefutils /usr/bin/sleep
 corefutils /usr/bin/whoami
 corefutils /usr/bin/yes
