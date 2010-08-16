@@ -3,14 +3,14 @@ LD=ld
 
 CFLAGS=-g
 
-OBJECTS= yes.o
+OUTPUT= yes whoami
 
-all: yes
+all: yes whoami
 
 %.out: %.c
 	$(CC) $(CFLAGS) -c $(input) -o $(output)
 
 clean:
-	rm -f $(OBJECTS)
+	rm -f $(OUTPUT)
 
 .PHONY: all
