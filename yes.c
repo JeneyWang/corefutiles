@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-main(int argc, char * argv[]) {
+int main(int argc, char * argv[]) {
     char *output = "y";
 
     if(argc > 1 ) {
@@ -11,5 +11,5 @@ main(int argc, char * argv[]) {
     while(1) {
             puts(output);
     } 
-
+    return 1;
 };
