@@ -1,7 +1,7 @@
 CC=gcc
 LD=ld
 
-CFLAGS=-g
+CFLAGS=-g -O2
 
 OUTPUT= sleep tty whoami yes
 

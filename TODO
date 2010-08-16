@@ -54,7 +54,6 @@ coreutils /usr/bin/test
 coreutils /usr/bin/timeout
 coreutils /usr/bin/truncate
 coreutils /usr/bin/tsort
-coreutils /usr/bin/tty
 coreutils /usr/bin/unexpand
 coreutils /usr/bin/uniq
 coreutils /usr/bin/unlink
@@ -66,5 +65,6 @@ coreutils /usr/bin/who
 COMPLETE
 
 corefutils /usr/bin/sleep
+corefutils /usr/bin/tty
 corefutils /usr/bin/whoami
 corefutils /usr/bin/yes
