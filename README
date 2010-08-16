@@ -1,4 +1,6 @@
 fu·tile/ˈfyo͞otl/
 Adjective: Incapable of producing any useful result; pointless. 
 
-my pathetic attempt to rewrite coreutils in a suckless manner.
+I'll be attempting over the next few weeks to write less sucking versions of coreutils, wish me luck, pray to your gods. 
+
+The goal is to create a simpler, working coreutils. 
