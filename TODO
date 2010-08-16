@@ -1,3 +1,6 @@
+
+TODO
+
 coreutils /usr/bin/
 coreutils /usr/bin/[
 coreutils /usr/bin/base64
@@ -61,9 +64,9 @@ coreutils /usr/bin/unlink
 coreutils /usr/bin/users
 coreutils /usr/bin/wc
 coreutils /usr/bin/who
-coreutils /usr/bin/whoami
 
 
 COMPLETE
 
+corefutils /usr/bin/whoami
 corefutils /usr/bin/yes
