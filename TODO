@@ -2,7 +2,6 @@
 TODO
 
 coreutils /usr/bin/base64
-coreutils /usr/bin/basename
 coreutils /usr/bin/chcon
 coreutils /usr/bin/cksum
 coreutils /usr/bin/comm
@@ -64,6 +63,7 @@ coreutils /usr/bin/who
 
 COMPLETE
 
+corefutiles /usr/bin/basename
 corefutils /usr/bin/sleep
 corefutils /usr/bin/tty
 corefutils /usr/bin/whoami
