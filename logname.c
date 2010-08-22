@@ -8,7 +8,7 @@ int main(int argc, char * argv[]) {
     login = getlogin();
     
     if(login) {
-    puts(getlogin());
+    puts(login);
     }
 
 return 1; 
